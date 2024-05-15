@@ -1,0 +1,65 @@
+/* Styling for the entire document */
+
+body{
+    background-color: #ff9500;
+    color: black;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+/* Styling for the entire document */
+/* 
+/*styling for heading*/
+/*@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap');
+</style>*/
+h1{
+    font-family:"Gluten", cursive;
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow:3px 3px 5px rgba(7, 0, 204, 0.7) ;
+}
+
+/*stylying for sub-heading*/
+h2{
+    font-size: 1em;
+    text-transform: uppercase;
+    text-decoration: green underline;
+    
+}
+
+/*styling for sub-section text*/
+h3{
+    font-size: small;
+    font-weight: bold;
+    text-decoration: green wavy underline;
+}
+
+/*styling for paragraph*/
+p{
+    font-size: 0.8rem;
+    text-align: justify;
+
+}
+
+/*styling for hyperlink*/
+a{
+    text-decoration: green wavy underline;
+    color: #7617a9;
+}
+
+/*stling for list items*/
+li{
+ font-size: 0.8rem;
+}
+
+/*styling for table*/
+table{
+    font-size: 0.8rem;
+}
+
+/*styling for form*/
+form{
+    font-size: 0.8rem;
+}
